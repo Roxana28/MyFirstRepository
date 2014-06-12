@@ -18,7 +18,9 @@ To see file changes from local remote directory do
 
 to COMMIT and PUSH changes do:
 
-			
+	Commit -> Stage to commit
+	Commit -> and add text fot the commit
+	Push 		
 
 
 
