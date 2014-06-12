@@ -4,9 +4,21 @@ First CREATE CLONE from REPOSTORY
 
 When you have to pull new changed files from GITHub Repository
 
-Remote -> Fetch from origin  (this updates your remote folder with the online from Github)
+	Remote -> Fetch from origin  (this updates your remote folder with the online from Github)
 Do 
-Rescan  to view the files that you changed
+	Rescan  to view the files that you changed
+
+To see file changes or new files from server Repository do:
+
+	Merge -> Local merge and then Repository -> Eplore working directory
+
+To see file changes from local remote directory do
+
+	Rescan
+
+to COMMIT and PUSH changes do:
+
+			
 
 
 
