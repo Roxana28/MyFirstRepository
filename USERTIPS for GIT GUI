@@ -1,0 +1,12 @@
+----------------------  USERTIPS for GIT GUI  --------------------------
+
+First CREATE CLONE from REPOSTORY
+
+When you have to pull new changed files from GITHub Repository
+
+Remote -> Fetch from origin  (this updates your remote folder with the online from Github)
+Do 
+Rescan  to view the files that you changed
+
+
+
